@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1525208326 source:d:\grabby\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"declaracoes.h"
+	"lista.h"
+	"console.h"
+	"comum.h"
+	"figurasgeometricas.h"
+	"grafico.h"
+	"telacomojogar.h"
+	"telainicial.h"
+	"telapontuacao.h"
+	"telapartida.h"
+
+1525221544 d:\grabby\declaracoes.h
+
+1525221036 d:\grabby\lista.h
+
+1524780944 d:\grabby\console.h
+
+1524616512 d:\grabby\comum.h
+
+1524604192 d:\grabby\figurasgeometricas.h
+
+1524578422 d:\grabby\grafico.h
+
+1525221430 d:\grabby\telacomojogar.h
+
+1525221512 d:\grabby\telainicial.h
+
+1525221486 d:\grabby\telapontuacao.h
+
+1525221590 d:\grabby\telapartida.h
+
+1525208326 source:j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"declaracoes.h"
+	"lista.h"
+	"console.h"
+	"comum.h"
+	"figurasgeometricas.h"
+	"grafico.h"
+	"telacomojogar.h"
+	"telainicial.h"
+	"telapontuacao.h"
+	"telapartida.h"
+
+1525221544 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\declaracoes.h
+
+1525221036 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\lista.h
+
+1524780944 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\console.h
+
+1524616512 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\comum.h
+
+1524604192 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\figurasgeometricas.h
+
+1524578422 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\grafico.h
+
+1525221430 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\telacomojogar.h
+
+1525221512 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\telainicial.h
+
+1525221486 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\telapontuacao.h
+
+1525221590 j:\repositório 3\0 - pasta arquivos pessoais\3 - inbox\1 - pastas por extensÃo de arquivo\pastas\backup do celular\3 semestre\estrutura de dados\grabby - carlos labatut_91587137406c2ca0fdb5e98b6e782ac2\grabby\telapartida.h
+
